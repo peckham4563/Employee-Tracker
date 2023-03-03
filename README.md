@@ -14,6 +14,7 @@ This challenge is a good foundation for a employer or business owner that wants 
 ## Website URL
 
 https://github.com/peckham4563/Employee-Tracker
+
 ![Screenshot](/Other/Employee-Tracker-Screenshot.png "Webpage Screenshot")
 
 ## Credits
